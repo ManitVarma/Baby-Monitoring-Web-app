@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    font-family: 'Outfit', sans-serif;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+
+}
+#Heading{
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+canvas{
+    border: 5px solid navy;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px grey;
+};
